@@ -15,6 +15,17 @@ for (let node of document.body.childNodes) {
     }
 
     console.log(node);
-
-    console.log('test');
 }
+
+//touchstart
+// tosuchmove
+// touchend
+// touchenter
+// touchleave
+// touchcancel
+// touches  
+
+
+window.addEventListener('DOMContentLoaded', () => {
+
+});
