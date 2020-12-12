@@ -75,3 +75,16 @@ target.matches('button.red')
 им€ = setTimeout(что, врем€);
 
 clearInterval(им€);
+
+const now = new Date();
+
+размеры:
+clientWitdth/Height
+offsetWitdth/Height
+scrollWitdth/Height
+scrollTop Ч показывает текущее значение
+.getBoundingClientRect().top/etx Ч получить все рзмеры эл-та
+document.documentElement.scrollTop Ч промотка от нчала страницы
+
+ѕоказать стили:
+window.getComputedStyl

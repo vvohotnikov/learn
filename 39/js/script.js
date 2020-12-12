@@ -10,7 +10,7 @@ function logger() {
     if (i === 3) {
         clearInterval(timerId);
     }
-};
+}
 
 // let id = setTimeout(function log() {
 //     console.log('Hello');
@@ -33,4 +33,4 @@ function myAnimation() {
             elem.style.left = pos + 'px';
         }
     }
-};
+}
